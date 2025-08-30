@@ -1,0 +1,48 @@
+
+# Log file open.
+
+stat
+***
+
+Name: Vindeiatrix / Mutant Warrior
+Exhaustion    : 0  
+Str: 172    Int: 26    Wis: 24 
+Dex: 140    Con: 137   Cha: 33 
+Hit Points    : 114 / 114
+Exp. Points   : 6880146 Level: 11 
+Riblets       : 0      
+Ions          : 4866350
+Wearing Armor : Satanic-Armour  Armour Class: 1024
+Ready to Combat: Buccaneer-2964                
+Readied Spell  : Clone: READY.
+Year A.D.      : 2000
+
+You are carrying the following items:  (Total Weight: 14 LB's)
+Hell-Blade, Gold-Chunck.
+>
+cast hell
+***
+The Gold-Chunck you were carrying has magically disappeared!
+***
+A Hell-Blade has magically appeared in your hand!
+>
+stat
+***
+
+Name: Vindeiatrix / Mutant Warrior
+Exhaustion    : 0  
+Str: 172    Int: 26    Wis: 24 
+Dex: 140    Con: 137   Cha: 33 
+Hit Points    : 114 / 114
+Exp. Points   : 6880146 Level: 11 
+Riblets       : 0      
+Ions          : 2611350
+Wearing Armor : Satanic-Armour  Armour Class: 1024
+Ready to Combat: Buccaneer-2964                
+Readied Spell  : Clone: READY.
+Year A.D.      : 2000
+
+You are carrying the following items:  (Total Weight: -11 LB's)
+Hell-Blade, Hell-Blade (1).
+>
+

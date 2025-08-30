@@ -1,0 +1,95 @@
+
+# Log file open.
+
+stat
+***
+
+Name: Vindeiatrix / Mutant Mage
+Exhaustion    : 0  
+Str: 73     Int: 118   Wis: 115
+Dex: 63     Con: 70    Cha: 106
+Hit Points    : 94  / 94 
+Exp. Points   : 18094903 Level: 13 
+Riblets       : 76658239
+Ions          : 5776723
+Wearing Armor : Eazy-Armour  Armour Class: 478
+Ready to Combat: Mutant-Tiger-643              
+Readied Spell  : Lightning Bolt: READY.
+Year A.D.      : 2100
+
+You are carrying the following items:  (Total Weight: 109 LB's)
+Hell-Blade, Lightning-Rod.
+>
+look
+***
+Graffiti lines the city walls.
+Compass: (0E : 1N)
+north - area continues.
+south - area continues.
+west  - open gate.
+***
+On the ground lies:
+An Ion-Booster, A Broken-Weapon, A Skull. 
+***
+Mutant-Tiger-643 is here.
+***
+Mutant-Tiger-643 roars: I'm hungry, Vindeiatrix!
+>
+cast west
+***
+You release the lightning bolt west!
+***
+This area suddenly lights up with a white, blinding flash!
+***
+Mutant-Tiger-643 has been hit by a lightning bolt!
+***
+You have slain Mutant-Tiger-643!
+Your experience points are increased by 1333!
+You collect 280 Riblets and 4292 ions from the slain body.
+***
+
+A Small-Club is falling from Mutant-Tiger-643's body!
+***
+A Skull is falling from Mutant-Tiger-643's body!
+***
+A Rags is falling from Mutant-Tiger-643's body!
+***
+Mutant-Tiger-643 is crumbling to dust!
+>
+cast west
+***
+You release the lightning bolt west!
+***
+This area suddenly lights up with a white, blinding flash!
+>
+stat
+***
+
+Name: Vindeiatrix / Mutant Mage
+Exhaustion    : 0  
+Str: 73     Int: 118   Wis: 115
+Dex: 63     Con: 70    Cha: 106
+Hit Points    : 94  / 94 
+Exp. Points   : 18096236 Level: 13 
+Riblets       : 76658519
+Ions          : 5729515
+Wearing Armor : Eazy-Armour  Armour Class: 478
+Ready to Combat: NO ONE
+Readied Spell  : Lightning Bolt: READY.
+Year A.D.      : 2100
+
+You are carrying the following items:  (Total Weight: 109 LB's)
+Hell-Blade, Lightning-Rod.
+>
+look
+***
+Graffiti lines the city walls.
+Compass: (0E : 1N)
+north - area continues.
+south - area continues.
+west  - open gate.
+***
+On the ground lies:
+An Ion-Booster, A Broken-Weapon, A Small-Club, A Skull, A Skull (1), Rags. 
+>
+
