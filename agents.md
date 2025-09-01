@@ -11,6 +11,9 @@ Recreate the BBS game “Mutants” as a modular Python project. For proof-of-co
 - Run tests: `pytest -q`
 - Format/lint: `ruff format .` and `ruff check .`
 
+## Guardrails
+- No to-hit rolls or random damage; damage is flat per rules.
+
 ## Project Structure (target)
 mutants/
   engine/          # rng, rules, statuses, effects, combat, ai, loot, serialization
